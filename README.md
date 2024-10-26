@@ -8,3 +8,4 @@
 &emsp;This approach aims to maintain an organized queuing process for individuals visiting the office and provides the flexibility to handle queue adjustments as needed.<br>
 
 ## UML Class Diagram
+![Singleton](https://github.com/user-attachments/assets/1b5a5199-d359-4e5d-b4e4-81a9fc60d8fc)
